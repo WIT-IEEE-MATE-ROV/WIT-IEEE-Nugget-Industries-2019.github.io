@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Nugget Industries 2019 Software Documentation
 
-You can use the [editor on GitHub](https://github.com/WIT-IEEE-Nugget-Industries-2019/WIT-IEEE-Nugget-Industries-2019.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the software documentation for the 2019 Nugget Industries team! This documentation is powered by Github Pages, read [here](https://pages.github.com/) to learn more about it, and make sure you're a contributor to edit stuff here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The goal of this page is twofold: we're required to submit documentation to the competition, and it's a good idea to have one place to store helpful info for our fellow team members. With that in mind, please provide helpful information for all files created, and update the overview if necessary. We're also required to show algorithms for vision processing, so that's a seperate section.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WIT-IEEE-Nugget-Industries-2019/WIT-IEEE-Nugget-Industries-2019.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Documentation Table of Contents
+- Software Overview
+  - Module overview
+  - System Architecture
+- Algorithms
+  - Line Following
+  - Shape Recognition
+- Modules 
+  - comms
+  - line-follower
+  - motor-control
+  - rov-core
+  - rovlog
+  - sensor-reading
+  - shape-detection
+  - surface
+- API
+ 
+ ### Other helpful things
+ Some things shouldn't be in our documentation, but are still worth hosting/sharing.
+ - Useful links
+ - Group TODO's
