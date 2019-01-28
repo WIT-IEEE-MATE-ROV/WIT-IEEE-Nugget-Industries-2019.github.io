@@ -6,23 +6,24 @@ The goal of this page is twofold: we're required to submit documentation to the 
 
 ### Documentation Table of Contents
 - Software Overview
-  - Module overview
-  - System Architecture
+  - [Module overview](./docs/software-overview/module_overview)
+  - [System Architecture](./docs/software-overview/system-architecture)
 - Algorithms
-  - Line Following
-  - Shape Recognition
+  - [Line Following](./docs/algorithms/line-following)
+  - [Shape Recognition](./docs/algorithms/shape-recognition)
 - Modules 
-  - comms
-  - line-follower
-  - motor-control
-  - rov-core
-  - rovlog
-  - sensor-reading
-  - shape-detection
-  - surface
+  - [comms](./docs/modules/comms)
+  - [line-follower](./docs/modules/line-follower)
+  - [motor-control](./docs/modules/motor-control)
+  - [rov-core](./docs/modules/rov-core)
+  - [rovlog](./docs/modules/rovlog)
+  - [sensor-reading](./docs/modules/sensor-reading)
+  - [shape-detection](./docs/modules/shape-detection)
+  - [surface](./docs/modules/surface)
 - API
+  - [api](./docs/api/api)
  
  ### Other helpful things
  Some things shouldn't be in our documentation, but are still worth hosting/sharing.
- - Useful links
- - Group TODO's
+ - [Useful links](./docs/other/group-todo)
+ - [Group TODO's](./docs/other/useful-links)
