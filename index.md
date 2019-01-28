@@ -5,6 +5,7 @@ Welcome to the software documentation for the 2019 Nugget Industries team! This 
 The goal of this page is twofold: we're required to submit documentation to the competition, and it's a good idea to have one place to store helpful info for our fellow team members. With that in mind, please provide helpful information for all files created, and update the overview if necessary. We're also required to show algorithms for vision processing, so that's a seperate section.
 
 ### Documentation Table of Contents
+
 - Software Overview
   - [Module overview](./docs/software-overview/module_overview)
   - [System Architecture](./docs/software-overview/system-architecture)
@@ -24,6 +25,7 @@ The goal of this page is twofold: we're required to submit documentation to the 
   - [api](./docs/api/api)
  
  ### Other helpful things
+ 
  Some things shouldn't be in our documentation, but are still worth hosting/sharing.
  - [Useful links](./docs/other/group-todo)
  - [Group TODO's](./docs/other/useful-links)
