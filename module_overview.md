@@ -1,5 +1,5 @@
 ---
-Module Overview
+layout: default
 ---
 
 # Overview the modules should live here
