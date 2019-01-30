@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # `comms`
 The comms module handles both inter-process and inter-device communication.
 
