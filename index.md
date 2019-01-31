@@ -35,7 +35,7 @@ The goal of this page is twofold: we're required to submit documentation to the 
   - [ESC Breakouts](./docs/esc-breakouts/esc-breakouts)
   - [Sensors](./docs/sensors/sensors)
   - [Other board stuff](./docs/other-board-stuff/other)
-  - Other Helpful Things
-- [Useful links](./docs/other/group-todo)
-- [Group TODO's](./docs/other/useful-links)
-- [Publishing Guidelines](./docs/other/documentation-guidelines)
+- ### Other Helpful Things
+  - [Useful links](./docs/other/group-todo)
+  - [Group TODO's](./docs/other/useful-links)
+  - [Publishing Guidelines](./docs/other/documentation-guidelines)
