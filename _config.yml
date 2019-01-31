@@ -3,41 +3,8 @@ logo: ./assets/img/logo.png
 description: >
   This is the documentation for the Nugget Industries team.
 nav:
-- Software Overview
-  - Module Overview
-    url: "./docs/software-overview/module_overview"
-  - System Architecture
-- Algorithms
-  - Line Following
-  - Shape Recognition
-- Modules
-  - Comms
-  - line-follower
-  - motor-control
-  - rov-core
-  - rovlog
-  - sensor-reading
-  - shape-detection
-  - surface
-- API
-- Mechanical
-  - Cameras
-  - Chassis
-  - Connectors
-  - Dumper 
-  - Manipulator
-  - Probes
-- Electrical
-  - Functional Block Diagram
-  - Backplane
-  - Power COnversion
-  - ESC Breakouts
-  - Sensors
-  - Other electrical stuff
- - Other helpful things
-   - Useful Links
-   - Group TODO's
-   - Publishing Guidelines
+- About Us
+   url: "./docs/whoweare"
    
 url: https://wit-ieee-nugget-industries-2019.github.io/
 repository: https://github.com/WIT-IEEE-Nugget-Industries-2019/WIT-IEEE-Nugget-Industries-2019.github.io
