@@ -1,4 +1,4 @@
-Welcome to the software documentation for the 2019 Nugget Industries team! This documentation is powered by Github Pages. Read [here](https://pages.github.com/) to learn more about it is, and check out our documentation guidelines [here](./docs/other/documentation-guidelines). You'll need to be a contributor to edit stuff here.
+Welcome to the documentation for the 2019 Nugget Industries team! This documentation is powered by Github Pages. Read [here](https://pages.github.com/) to learn more about it is, and check out our documentation guidelines [here](./docs/other/documentation-guidelines). You'll need to be a contributor to edit stuff here.
 
 The goal of this page is twofold: we're required to submit documentation to the competition, and it's a good idea to have one place to store helpful info for our fellow team members. With that in mind, please provide helpful information for all files created, and update the overview if necessary. We're also required to show algorithms for vision processing, so that's a seperate section.
 
