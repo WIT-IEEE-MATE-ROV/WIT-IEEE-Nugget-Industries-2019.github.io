@@ -3,19 +3,19 @@ layout: default
 ---
 
 # Overview the modules should live here
-# comms
+## comms
 Handles communications.
-# line-follower
+## line-follower
 Follows a line.
-# motor-control
+## motor-control
 Controls the motor.
-# rov-core
+## rov-core
 A central starting point for the ROV.
-# rovlog
+## rovlog
 Logging for the rov.
-# sensor-reading
+## sensor-reading
 Reads the sensors.
-# shape-detection
+## shape-detection
 Detects the shapes.
-# surface
+## surface
 A central starting point for the surface station.

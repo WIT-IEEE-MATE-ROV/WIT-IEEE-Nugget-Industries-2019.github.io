@@ -1,4 +1,4 @@
 title: WIT IEEE Nugget Industries Software Documentation
-logo: /assets/img/logo.png
+logo: ./assets/img/logo.png
 description: This is the documentation for the Nugget Industries software team.
 theme: jekyll-theme-minimal
