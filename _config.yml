@@ -1,11 +1,7 @@
 title: WIT IEEE Nugget Industries Documentation
 logo: ./assets/img/logo.png
 description: >
-  This is the documentation for the Nugget Industries team.
-nav:
-- About Us
-   url: "./docs/whoweare"
-   
+  This is the documentation for the Nugget Industries team. 
 url: https://wit-ieee-nugget-industries-2019.github.io/
 repository: https://github.com/WIT-IEEE-Nugget-Industries-2019/WIT-IEEE-Nugget-Industries-2019.github.io
 twitter:
