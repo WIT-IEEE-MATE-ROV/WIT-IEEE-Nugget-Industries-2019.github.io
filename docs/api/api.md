@@ -149,3 +149,5 @@ When starting the API, the contents of the entire api folder are made available 
 It may seem that this API is simply reading/writing to files, but in reality this is not the case. The API works off of [named pipes](https://en.wikipedia.org/wiki/Named_pipe) by using the [mkfifo()](https://linux.die.net/man/3/mkfifo) call. This is significantly faster than reading and writing to a file, and is moderately faster than reading and writing to network sockets. To keep things fast, the pipe is opened when the listener/publisher is opened, and kept open until the process is shut down. 
 
 As a bonus, this can be easily published to the network allowing for other devices to access them.
+
+:)
