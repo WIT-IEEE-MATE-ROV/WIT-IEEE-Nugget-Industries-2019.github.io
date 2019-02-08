@@ -11,6 +11,5 @@ The sensors in the robot:
 3. Barometer: Blue Robotics Bar02
 4. Distance(for vision processing): 
 ## Progress Logs
-Code Development
 ## Revision 1
 ## Revision 2
