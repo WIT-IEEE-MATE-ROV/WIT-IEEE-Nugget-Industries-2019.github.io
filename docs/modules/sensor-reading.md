@@ -28,12 +28,14 @@ Reads the magnetometer split between least significant bits and most significant
 ### set_mag_gain()
 Sets the magnetometer gain.
 
+
 ## Temperature(MAX6581)
 This is used to monitor the temperature inside the ROV
 
 
 ## Barometer
-This sensor can measure up to 10 meter depth with water depth resolution of 0.16mm adn can measure altitude in air using air pressure with a resolution of 13cm.
+This sensor can measure up to 10 meter depth with water depth resolution of 0.16mm adn can measure altitude in air using air pressure with a resolution of 13cm. Also has a temperature component that will measure the temperature outside the ROV.
+We were able to use part of the BlueRobotics code that they made for the sensor and talior it to our needs.
 
 ### ms5837_init()
 The sensor is intialized and data is verified with a cyclic redundancy check (crc).
