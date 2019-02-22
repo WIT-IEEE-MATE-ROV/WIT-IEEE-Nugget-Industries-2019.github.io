@@ -8,6 +8,7 @@ Motor control is performed asynchronously. To allow for this to occur, a single 
 the code to control a single thruster, with another file holding helpful #defines (thruster-control.h). The name of the
 thruster to be controlled is passed to the compiled code via the command line (i.e., `./thruster-control T_FRONT_LEFT`).
 This single module is called once for each thruster, and each instance looks at the respective part of the API to find what to do.
+Having this setup protects against thruster failure, if one stops working we can reset it and the other 7 are able to continue working without a problem.
 
 The subsystem control functions in an identical fashion.
 
