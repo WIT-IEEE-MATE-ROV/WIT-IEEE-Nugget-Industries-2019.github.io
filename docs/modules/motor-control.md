@@ -21,3 +21,6 @@ To Implement this asynchonous thursuter control, a struct was created called Whi
 
 ### WiringPiI2C library
 First before having the thruster move we must connect to it and it setup using the wiringPiI2C libarary. The first time connecting the thursters we will need to use wiringPiI2CDetect() to find each thruster unique identifier which we will put in their respective Whichami struct. From there once we know the uniquie identifier, fd, we can then use to it in wiringPiI2cSetup() which makes sure that the Pi connects to the thruster, if it does not work it will return an error. Once setup is comeplete then using the API we can send data to the thruster and control it. We will be using the wiringPiI2CWrite() to set the the PWM of the thruster.
+
+### Thruster_control.c
+This program gets the goal value sent from the API to chnage the PMW of one motor. The goal value will be a number between 1 to -1, this value correlates to the speed of the motor. From 1 to 0 the direction will be forward and from 0 to -1 it will be backwards.
