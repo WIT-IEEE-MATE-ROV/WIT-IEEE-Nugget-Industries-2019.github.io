@@ -13,4 +13,4 @@ TODO
 
 
 ## Output Image
-![Output Image] (/images/output.png)
+![Output Image] (https://files.slack.com/files-pri/TBE0MGR1A-FGTK0HV4N/image.png)
