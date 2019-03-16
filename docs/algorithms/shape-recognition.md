@@ -13,4 +13,4 @@ TODO
 
 
 ## Output Image
-![Output Image](C:\Users\chena8\Pictures)
+![Output Image](C:\Users\chena8\Pictures\output.png)
