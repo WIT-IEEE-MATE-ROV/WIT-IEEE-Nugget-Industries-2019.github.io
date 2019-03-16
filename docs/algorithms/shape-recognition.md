@@ -6,7 +6,7 @@ For this competition, we were required to use machine vision to detect varying o
 The `addoverlay` function takes the number of squares, rectangles, triangles, and circles from the `detectsquares`, `detecttriangles`, and `detectcircles` functions and displays them next to the symbol of the respective shape on top of the live video feed.
 
 ## Flowchart
-TODO
+![Flowchart](./flowchart.png)
 
 ## Output Image
 ![Output Image](./output.png)
