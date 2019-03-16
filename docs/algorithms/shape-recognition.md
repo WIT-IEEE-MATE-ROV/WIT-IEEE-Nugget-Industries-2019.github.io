@@ -10,3 +10,7 @@ The `addoverlay` function takes the number of squares, rectangles, triangles, an
 TODO
 
 ## Psuedocode
+
+
+## Output Image
+![Output Image] (./output.jpg)
