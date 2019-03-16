@@ -9,8 +9,5 @@ The `addoverlay` function takes the number of squares, rectangles, triangles, an
 ## Flowchart
 TODO
 
-## Psuedocode
-
-
 ## Output Image
 ![Output Image](./output.png)
