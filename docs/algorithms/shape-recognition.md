@@ -13,4 +13,4 @@ TODO
 
 
 ## Output Image
-![Output Image] (./output.jpg)
+![Output Image] (./output.png)
