@@ -13,4 +13,4 @@ TODO
 
 
 ## Output Image
-![Output Image](\Pictures\output.png)
+![Output Image](.\output.png)
